@@ -58,4 +58,3 @@ public class PlayerScript : MonoBehaviour {
         agent.SetDestination(marker.transform.position);
     }
 }
-//
